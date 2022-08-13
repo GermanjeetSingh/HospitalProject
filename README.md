@@ -4,7 +4,7 @@ Patient and PatientHistory - Akshaya Dupati[n01520169]
 
 FAQ and Medicine - Santhini Sasidharan[n01479678]
 
-Departments and Doctor - Germanjeet
+Departments and Doctor - Germanjeet (n01517816
 
 Appointments - Elliot-Brown Ford
 
